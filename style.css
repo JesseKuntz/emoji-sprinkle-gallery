@@ -29,7 +29,7 @@ button {
   border-radius: 8px;
   margin: 8px;
   cursor: pointer;
-  max-width: 72px;
+  text-align: center;
 }
 
 button:hover {
